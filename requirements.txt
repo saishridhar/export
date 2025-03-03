@@ -1,0 +1,10 @@
+transformers
+torch
+joblib
+pandas
+numpy
+scikit-learn
+bert_score
+pytorch-ignite
+openai
+pydantic
